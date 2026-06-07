@@ -2,6 +2,10 @@
 
 > Combining OpenAI Embeddings and Oracle Database 26ai Vector Search for intelligent candidate discovery.
 
+## 🏗️ Architecture
+
+The architecture diagram below illustrates the complete workflow.
+
 ![Architecture Diagram](diagram.png)
 
 ---
@@ -24,14 +28,6 @@ this system supports natural language queries like:
 > *"Find senior Python developers with AI experience and salary expectations below ₹20 LPA."*
 
 The application combines **SQL Filtering**, **Vector Similarity Search**, **OpenAI Embeddings**, and **Oracle Database 26ai VECTOR Columns** to identify and rank the most relevant candidates.
-
----
-
-## 🏗️ Architecture
-
-The architecture diagram below illustrates the complete workflow.
-
-![Architecture Diagram](diagram.png)
 
 ---
 
